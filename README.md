@@ -1,1 +1,6 @@
-# WheelPoint
+
+## Build
+```bash
+$ androidjs b
+```
+
