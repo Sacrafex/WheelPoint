@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.baseflow.geolocator.geolocator_android-release-28:/layout/notification_template_part_chronometer.xml",
+        "source": "com.baseflow.geolocator.geolocator_android-core-1.16.0-12:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.baseflow.geolocator.geolocator_android-release-28:/layout/custom_dialog.xml",
+        "source": "com.baseflow.geolocator.geolocator_android-core-1.16.0-12:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.baseflow.geolocator.geolocator_android-release-28:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.baseflow.geolocator.geolocator_android-core-1.16.0-12:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.baseflow.geolocator.geolocator_android-release-28:/layout/notification_template_part_time.xml",
+        "source": "com.baseflow.geolocator.geolocator_android-core-1.16.0-12:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.baseflow.geolocator.geolocator_android-release-28:/layout/ime_base_split_test_activity.xml",
+        "source": "com.baseflow.geolocator.geolocator_android-core-1.16.0-12:/layout/ime_base_split_test_activity.xml"
+    }
+]

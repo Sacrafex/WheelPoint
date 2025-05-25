@@ -1,0 +1,1 @@
+/home/kj/Documents/GitHub/wheelpoint/build/app/intermediates/cxx/RelWithDebInfo/u0312o1k/obj/armeabi-v7a

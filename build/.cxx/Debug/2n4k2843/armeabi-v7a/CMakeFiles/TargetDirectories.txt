@@ -1,0 +1,2 @@
+/home/kj/Documents/GitHub/wheelpoint/build/.cxx/Debug/2n4k2843/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/kj/Documents/GitHub/wheelpoint/build/.cxx/Debug/2n4k2843/armeabi-v7a/CMakeFiles/rebuild_cache.dir
