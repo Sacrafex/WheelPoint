@@ -1,4 +1,4 @@
-# Wheelpoint
+# Wheelpoint (Deprecated)
 
 Wheelpoint is a Flutter-based ride tracking app designed for cyclists, motorcyclists, drivers, and micromobility users. It provides real-time speed, distance, and route tracking on a live map, with a modern and intuitive UI.
 
